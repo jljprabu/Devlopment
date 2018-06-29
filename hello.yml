@@ -1,0 +1,5 @@
+---
+- name: hello world
+  tasks:
+    - name: Print hello world
+      shell: echo "hello world"
